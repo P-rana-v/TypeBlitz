@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="caps_lock_weight">1.2</dimen>
+    <dimen name="backspace_weight">1.3</dimen>
+
+    <dimen name="special_key_weight">1.39</dimen>
+    <dimen name="comma_key_weight">1</dimen>
+    <dimen name="spacebar_weight">6</dimen>
+    <dimen name="full_stop_weight">1</dimen>
+    <dimen name="return_key_weight">1.5</dimen>
+
+    <dimen name="text_scale">1.5</dimen>
+    <dimen name="default_text_size">17</dimen>
+
+    <dimen name="preview_popup_text_size">32</dimen>
+    <integer name="english_preview_popup_text_padding">42</integer>
+    <integer name="korean_preview_popup_text_padding">28</integer>
+</resources>

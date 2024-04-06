@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+    <SeekBarPreference
+        android:key="long_click_delete_speed"
+        android:title="Long click delete speed"
+        android:summary="Adjust the interval when deleting by long pressing delete key"
+        android:min="50"
+        android:max="500"
+        android:defaultValue="200"
+        app:showSeekBarValue="true"
+        />
+
+    <SeekBarPreference
+        android:key="keyboard_height"
+        android:title="Adjust Keyboard Height"
+        app:showSeekBarValue="true"
+        />
+</PreferenceScreen>
+

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="dark_theme_letter_btn_bg">#393A41</color>
+    <color name="dark_theme_bg">#1D1F26</color>
+    <color name="dark_theme_subtext">#707070</color>
+
+    <color name="light_theme_bg">#EDF0F0</color>
+    <color name="light_theme_subtext">#C9C9C9</color>
+
+    <color name="transparent">#00aabbcc</color>
+</resources>
